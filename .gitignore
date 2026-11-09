@@ -1,0 +1,4 @@
+# ignore heavy or private files
+*.docx
+*.pdf
+Thumbs.db
